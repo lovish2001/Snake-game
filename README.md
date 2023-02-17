@@ -14,7 +14,7 @@ pip install pygame
 ## Running the application
 Download the source code from the repository and run the (.exe) file .
 ```
-
+SnakeGame.exe
 ```
 The `difficulty` variable can be changed with the values provided in the comment to set the difficulty level.
 
