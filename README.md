@@ -2,6 +2,9 @@
 A snake game written in Python using the Pygame library.
 
 
+[Download](https://codeload.github.com/lovish2001/Snake-game/zip/refs/heads/main)
+
+
 ## Installing
 Download the Python  installer package from the official website and install it, if not installed previously.
 
